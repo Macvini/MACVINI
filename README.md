@@ -43,7 +43,7 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimen
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Macvini&locale=pt_BR&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Stats](https://gh-stats-gen.vercel.app/api?user=Macvini&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Macvini&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
 
 </div>
 
