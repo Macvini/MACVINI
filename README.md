@@ -1,7 +1,7 @@
 <div align="center">
 
 # Marcos Vinicius
-### Estudante de Tecnologia da Informação
+### Estudante de Análise e Desenvolvimento de Sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-7a8294239/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macvini)
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Tecnologia da Informação apaixonado por desenvolvimento e pela área de tecnologia. Atualmente focado em construir uma base sólida em programação, buscando aplicar o conhecimento em projetos práticos e contribuir com a comunidade de desenvolvedores.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento e pela área de tecnologia. Atualmente focado em construir uma base sólida em programação, buscando aplicar o conhecimento em projetos práticos e contribuir com a comunidade de desenvolvedores.
 
-- 🎓 Cursando **Tecnologia da Informação**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🌱 Atualmente aprendendo **HTML, CSS, JavaScript e Python**
 - 🎯 Objetivo: Evoluir como desenvolvedor e conquistar minha primeira oportunidade na área
 - 📍 Brasil
@@ -41,9 +41,9 @@ Estudante de Tecnologia da Informação apaixonado por desenvolvimento e pela á
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macvini&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Macvini&locale=pt_BR&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macvini&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff)
+![GitHub Stats](https://gh-stats-gen.vercel.app/api?user=Macvini&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff)
 
 </div>
 
