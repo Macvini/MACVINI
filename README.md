@@ -3,15 +3,15 @@
 # Marcos Vinicius
 ### Estudante de Tecnologia da Informação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-7a8294239/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macvini)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maarcosv23@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim 
+## 👨‍💻 Sobre mim
 
 Estudante de Tecnologia da Informação apaixonado por desenvolvimento e pela área de tecnologia. Atualmente focado em construir uma base sólida em programação, buscando aplicar o conhecimento em projetos práticos e contribuir com a comunidade de desenvolvedores.
 
@@ -64,7 +64,7 @@ Estou sempre aberto para trocar conhecimento, colaborar em projetos e aprender c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me%20adicione%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/Me%20adicione%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-7a8294239/)
 
 </div>
 
